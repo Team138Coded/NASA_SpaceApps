@@ -1,0 +1,6 @@
+{
+  "name": "The Quiet Vigil",
+  "description": "Interactive NASA Mars & Deep Space telemetry simulation following VALI's overnight vigil across historic missions left behind on Mars and in interstellar space.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
