@@ -1,8 +1,8 @@
-# Sol Zero
+# The Quiet Vigil
 
 An interactive, story-driven space simulation built for the **NASA Space Apps Challenge 2026** (*Abandoned but Not Forgotten*).
 
-**Sol Zero** invites students and curious explorers to step inside the real physics, engineering, and stories of the NASA rovers, landers, helicopters, and deep-space probes left behind on Mars and beyond—turning archived mission data into a playable journey.
+**The Quiet Vigil** invites students and curious explorers to step inside the real physics, engineering, and stories of the NASA rovers, landers, helicopters, and deep-space probes left behind on Mars and beyond—turning archived mission data into a playable journey.
 
 ---
 
